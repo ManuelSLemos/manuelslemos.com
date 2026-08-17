@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manuelslemos.es/sitemap-index.xml
